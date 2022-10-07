@@ -1,5 +1,5 @@
 
-<img src="https://github.com/SNEHA-Org/.github/blob/main/sneha.png?raw=true">
+<img src="https://github.com/SNEHA-Org/.github/blob/main/sneha.png?raw=true" style="width:50%">
 
 Health Equity amongst the urban poor can be a powerful agent of change. Similar to health being critical to a child's development, health equity is an indispensable milestone of a community's development. This can be achieved by strengthening the community's capacity to access public health services while working with public health systems to provide quality services and by changing knowledge, attitudes and behaviours. SNEHA (Society for Nutrition, Education and Health Action) is a step towards bridging the health equity gap and going beyond fighting illness to Raising Health For All.
 
